@@ -38,7 +38,7 @@ Good luck!
 
 * Test Number 4: Clicks On Explore, Writes "Flashpoint" On Text Field, Goes Back And Refreshes Page.
 
-* Test Number 5: 
+* Test Number 5: Maximizes Window, Refreshes Page, Verifies To See If "2016 Docker Inc" Is On The Page, Refreshes Page Again And Clicks On Help. 
 
 
 
