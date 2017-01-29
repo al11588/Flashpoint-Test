@@ -40,6 +40,21 @@ class SeleniumTest(unittest.TestCase):
     	#submitbutton
     	submitbutton2 = self.browser.find_element_by_id("nw_submit").click()
 
+    	#clicks on explore, writes flashpoint on searchfield, presses back button, refreshes
+    def testThisIsComplex(self):
+    	#clicks on explore
+    	explore = self.browser.find_element_by_link_text("Explore").click()
+    	#searchfield
+    	searchfield2 = self.browser.find_element_by_css_selector("input.SearchBar__searchInput___34nC3").send_keys("Flashpoint")
+    	#press back
+    	back = self.browser.back()
+    	#refreshes
+    	refresh = self.browser.refresh()
+
+
+
+
+
 
 if __name__ == '__main__':
     unittest.main(verbosity=3)
