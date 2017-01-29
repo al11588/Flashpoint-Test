@@ -1,5 +1,6 @@
 import unittest
 from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
 
 class SeleniumTest(unittest.TestCase):
 
@@ -11,8 +12,10 @@ class SeleniumTest(unittest.TestCase):
 
         #1.search related test case
     def testSearch(self):
-
-        elem = self.browser.find_element_by_xpath("//div/main/div/div[1]/div/nav/section/ul[2]/li/div/form/div/input") #search field
+    	#search field
+        searchfield = self.browser.find_element_by_xpath("//div/main/div/div[1]/div/nav/section/ul[2]/li/div/form/div/input").send_keys("Flashpoint")
+        #searchfield enter or return
+        searchfieldenter = self.browser.find_element_by_xpath("//div/main/div/div[1]/div/nav/section/ul[2]/li/div/form/div/input").send_keys(Keys.RETURN)
 
         #2.signup related test case
     def testSignup(self):
