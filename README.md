@@ -22,4 +22,6 @@ Good luck!
 
 * Run: "pip install -r requirements.txt".
 
+* Run: "python tests.py"
+
  
