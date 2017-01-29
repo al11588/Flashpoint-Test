@@ -17,11 +17,11 @@ class SeleniumTest(unittest.TestCase):
         #2.signup related test case
     def testSignup(self):
     	#docker ID field
-    	dockeridfield = self.browser.find_element_by_xpath("//header[@class='Welcome__header___2oKOq']/div/div[2]/div/form/div[2]/div/input").send_keys("alvindockerid")
+    	dockeridfield = self.browser.find_element_by_xpath("//div/main/div/div[1]/header/div/div[2]/div/form/div[1]/div/input").send_keys("alvindockerid")
     	#email field
     	emailfield = self.browser.find_element_by_xpath("//header[@class='Welcome__header___2oKOq']/div/div[2]/div/form/div[2]/div/input").send_keys("alvinpassword@gmail.com")
     	#password field
-
+    	passwordfield = self.browser.find_element_by_xpath("//header[@class='Welcome__header___2oKOq']/div/div[2]/div/form/div[3]/div/input").send_keys("alvinpassword@gmail.com")
     	#signup button
     	signupbutton = self.browser.find_element_by_xpath("//header[@class='Welcome__header___2oKOq']//button[.='Sign Up']") #signup button
         signupbutton.click()# signup button is clicked
