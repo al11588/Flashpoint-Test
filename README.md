@@ -20,7 +20,11 @@ Good luck!
 
 * Install: Chrome.
 
-* Run: "pip install -r requirements.txt".
+* Run: "pip install virtualenv"
+
+* Run: "pip install -r requirements.txt"
+
+* Run: "source venv/bin/activate"
 
 * Run: "python tests.py"
 
