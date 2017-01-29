@@ -15,3 +15,11 @@ We are looking for answers that are clear and correct, and we want to see an org
 Good luck!
 
 # How To Run Tests
+
+* Install: Python 2.7.13.
+
+* Install: Chrome.
+
+* Run: "pip install -r requirements.txt".
+
+ 
