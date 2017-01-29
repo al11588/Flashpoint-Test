@@ -30,15 +30,15 @@ Good luck!
 
 # Tests I Created
 
-*Test Number 1:
+* Test Number 1:
 
-*Test Number 2:
+* Test Number 2:
 
-*Test Number 3:
+* Test Number 3:
 
-*Test Number 4:
+* Test Number 4:
 
-*Test Number 5:
+* Test Number 5:
 
 
 
