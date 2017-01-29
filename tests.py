@@ -63,11 +63,14 @@ class SeleniumTest(unittest.TestCase):
     	refresh = self.browser.refresh()
     	#clicks help
     	helpclick = self.browser.find_element_by_link_text("Help").click()
-
+        
+        # Clean up actions
+    def tearDown(self):
+        self.browser.close()
 
 
 
 
 
 if __name__ == '__main__':
-    unittest.main(verbosity=3) 
+    unittest.main() 
