@@ -20,21 +20,21 @@ Good luck!
 
 * Install: Chrome.
 
-* Run: "pip install virtualenv"
+* Run: "pip install virtualenv".
 
-* Run: "pip install -r requirements.txt"
+* Run: "pip install -r requirements.txt".
 
-* Run: "source venv/bin/activate"
+* Run: "source venv/bin/activate".
 
-* Run: "python tests.py"
+* Run: "python tests.py".
 
 # Tests I Created
 
-* Test Number 1: Search Related Test Case
+* Test Number 1: Search Related Test Case.
 
-* Test Number 2: Sign-up Related Test Case
+* Test Number 2: Sign-up Related Test Case.
 
-* Test Number 3: Login Related Test Case
+* Test Number 3: Login Related Test Case.
 
 * Test Number 4: Clicks On Explore, Writes "Flashpoint" On Text Field, Goes Back And Refreshes Page.
 
