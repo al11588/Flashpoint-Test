@@ -1,6 +1,6 @@
 # Flashpoint Intel QA Coding Exercise
 
-Your mission, should you choose to accept it... 
+Your mission, should you choose to accept it... Challenge Accepted
 
 Automate at least five (5)  test cases for the Docker website using Webdriver and Python. Please also make sure your tests can be executed by us via Firefox or Chrome.  This activity should only take 45 minutes to an hour.
 
@@ -13,3 +13,5 @@ Your answer must include:
 We are looking for answers that are clear and correct, and we want to see an organized, maintainable test suite project.  Submit your answer to us as a .zip file or provide a git repo with your answer.  Please include instructions on how to run your tests.
 
 Good luck!
+
+# How To Run Tests
