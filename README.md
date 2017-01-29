@@ -36,7 +36,7 @@ Good luck!
 
 * Test Number 3: Login Related Test Case
 
-* Test Number 4:
+* Test Number 4: Clicks On Explore, Writes "Flashpoint" On Text Field, Goes Back, Refreshes Page.
 
 * Test Number 5:
 
