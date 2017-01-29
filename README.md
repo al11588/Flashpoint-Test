@@ -30,11 +30,11 @@ Good luck!
 
 # Tests I Created
 
-* Test Number 1:
+* Test Number 1: Search Related Test Case
 
-* Test Number 2:
+* Test Number 2: Sign-up Related Test Case
 
-* Test Number 3:
+* Test Number 3: Login Related Test Case
 
 * Test Number 4:
 
