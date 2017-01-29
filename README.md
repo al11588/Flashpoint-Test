@@ -1,8 +1,8 @@
-Flashpoint Intel QA Coding Exercise
+# Flashpoint Intel QA Coding Exercise
 
 Your mission, should you choose to accept it... 
 
-Automate at least five (5)  test cases for the Docker website using Webdriver and Pyhon. Please also make sure your tests can be executed by us via Firefox or Chrome.  This activity should only take 45 minutes to an hour.
+Automate at least five (5)  test cases for the Docker website using Webdriver and Python. Please also make sure your tests can be executed by us via Firefox or Chrome.  This activity should only take 45 minutes to an hour.
 
 Your answer must include:
 1.	At least one search-related test case
