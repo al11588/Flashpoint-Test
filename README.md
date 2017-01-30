@@ -30,6 +30,8 @@ Good luck!
 
 # Tests I Created
 
+![Image Tests Tests](https://raw.githubusercontent.com/al11588/Flashpoint-Test/master/tests.png?token=AFM1uCjoIG-PJ7MjyB58DCowW2JgPmX7ks5Yl74VwA%3D%3D)
+
 * Test Number 1: Search Related Test Case.
 
 * Test Number 2: Sign-up Related Test Case.
