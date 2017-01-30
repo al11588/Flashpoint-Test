@@ -22,9 +22,9 @@ Good luck!
 
 * Run: "pip install virtualenv".
 
-* Run: "pip install -r requirements.txt".
-
 * Run: "source venv/bin/activate".
+
+* Run: "pip install -r requirements.txt".
 
 * Run: "python tests.py".
 
